@@ -1,4 +1,4 @@
-COURSE = 
+COURSE = simmod
 
 .PHONY: all clean
 
